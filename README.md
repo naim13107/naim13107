@@ -1,32 +1,47 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
+<div align="center">
 
-# 👋 Hi, I'm MD Naim UL Haque
+<img src="banner.png" alt="Banner" width="100%" />
 
-### Software Developer
+<br/>
 
-📍 **Location:** Dhaka, Bangladesh  
-📧 **Email:** naimulh644@gmail.com  
-🌐 **Portfolio:** [naim13107.github.io/Portfolio](https://naim13107.github.io/Portfolio/)
+# 👋 Hey there, I'm MD Naim UL Haque
+
+### Full-Stack Developer · Django · React · REST APIs
+
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 naimulh644@gmail.com &nbsp;|&nbsp; 🎓 B.Sc. Applied Mathematics, University of Dhaka
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-ul-haque/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naim13107)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naim13107.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naim13107)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimulh644@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=naim13107&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
-## 📖 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate Full-Stack Developer with strong experience in Django, Django REST Framework, and React. I love building scalable and secure web applications that solve real-world problems. Currently, I'm in my final year of B.Sc. in Applied Mathematics at the University of Dhaka, constantly learning and growing as a developer.
+I'm a passionate **Full-Stack Developer** with strong hands-on experience in **Django**, **Django REST Framework**, and **React**. I love building scalable, secure web applications that solve real-world problems — from emergency blood donation platforms to full event management systems.
 
-### 🔥 Current Activities
+Currently in my final year of **B.Sc. in Applied Mathematics** at the University of Dhaka, I bring a strong analytical mindset to every project I work on.
 
-- 🔭 I'm currently working on **advanced backend architectures** and **cloud deployment**
-- 🌱 I'm exploring **Next.js** and **GraphQL**
-- 👯 I'm looking to collaborate on **impactful open-source projects**
+```text
+💡  I believe great software starts with clear thinking and clean architecture.
+🚀  I ship production-ready apps — not just side projects.
+🤝  Open to collaborations, freelance, and full-time opportunities.
+```
+
+### 🔥 What I'm up to right now
+
+- 🔭 Building **advanced backend architectures** and mastering **cloud deployment**
+- 🌱 Exploring **Next.js** and **GraphQL**
+- 👯 Looking to collaborate on **impactful open-source projects**
 - 💬 Ask me about **Django**, **React**, or **REST APIs**
 - ✨ Available for work and exciting collaborations!
 
@@ -36,29 +51,31 @@ I'm a passionate Full-Stack Developer with strong experience in Django, Django R
 
 <div align="center">
 
-### Expertise
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" height="50" alt="DRF" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+### ⚡ Core Expertise
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" height="48" alt="Django" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" height="48" alt="DRF" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
 
-### Comfortable With
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL" />
+### 🧰 Also Comfortable With
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="50" alt="Jupyter" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="50" alt="Matlab" />
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48" alt="Cloudinary" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" alt="Jupyter" />
 
 </div>
 
@@ -66,84 +83,100 @@ I'm a passionate Full-Stack Developer with strong experience in Django, Django R
 
 ## 📌 Featured Projects
 
-### 🩸 Bondhon - Blood Donation Platform
+### 🩸 Bondhon — Blood Donation Platform
 
-**Overview:** A full-stack platform connecting blood donors with patients in critical need. Features emergency request tracking, automated donor health management, and integrated payment gateway for fundraising.
+> A full-stack platform connecting blood donors with patients in critical need. Emergency request tracking, automated donor health management, and an integrated payment gateway — built end-to-end.
 
-**🔗 Live Link:** [https://bondhon-blood-bank.vercel.app/](https://bondhon-blood-bank.vercel.app/)  
-**🔗 API Server:** [https://bloodbank-teal.vercel.app/api/v1/](https://bloodbank-teal.vercel.app/api/v1/)
+| | |
+|---|---|
+| 🌐 **Live App** | [bondhon-blood-bank.vercel.app](https://bondhon-blood-bank.vercel.app/) |
+| ⚙️ **Live API** | [bloodbank-teal.vercel.app/api/v1](https://bloodbank-teal.vercel.app/api/v1/) |
+| 💻 **Frontend Repo** | [bondhon-blood-bank-frontend](https://github.com/naim13107/bondhon-blood-bank-frontend) |
+| 🔧 **Backend Repo** | [Bondhon-BloodBank-Backend](https://github.com/naim13107/Bondhon-BloodBank-Backend) |
 
-**📂 GitHub Repositories:**
-- [Frontend Repository](https://github.com/naim13107/bondhon-blood-bank-frontend)
-- [Backend Repository](https://github.com/naim13107/Bondhon-BloodBank-Backend)
+**Stack:** `Django REST Framework` `React 19` `Tailwind CSS` `PostgreSQL` `JWT Auth` `SSLCommerz` `Cloudinary` `Vercel`
 
-**🛠️ Technologies:** `Django REST Framework` `React` `Tailwind CSS` `SSLCommerz`
-
-**✨ Key Features:**
-- Real-time blood request & donor profiles
-- Emergency request tracking system
-- Automated donor health management
-- SSLCommerz payment gateway for fundraising
+**Highlights:**
+- 🔴 Real-time emergency blood request system with donor availability tracking
+- 🧑‍⚕️ Automated donor cooldown management based on last donation date
+- 💳 SSLCommerz payment gateway for fundraising campaigns with transaction history
+- 🔐 Full JWT authentication with token refresh and protected routes
+- 📱 Fully responsive React frontend with Axios interceptors for seamless API calls
 
 ---
 
-### 🎉 EventMaster - Event Management System
+### 🎉 EventMaster — Event Management System
 
-**Overview:** A full-stack web application using Django (MVT architecture) with role-based access control for Admins, Organizers, and Users.
+> A full-stack Django web application with role-based access control for Admins, Organizers, and Participants. One-click RSVP, smart dashboards, and email confirmations.
 
-**🔗 Live Link:** [https://eventmanagement-pink.vercel.app/](https://eventmanagement-pink.vercel.app/)
+| | |
+|---|---|
+| 🌐 **Live App** | [eventmanagement-pink.vercel.app](https://eventmanagement-pink.vercel.app/) |
+| 💻 **Repo** | [EventMaster---Event-management-system](https://github.com/naim13107/EventMaster---Event-management-system) |
 
-**📂 GitHub Repository:** [https://github.com/naim13107/EventMaster---Event-management-system](https://github.com/naim13107/EventMaster---Event-management-system)
+**Stack:** `Django` `Tailwind CSS` `PostgreSQL` `Cloudinary` `Gmail SMTP` `Vercel`
 
-**🛠️ Technologies:** `Django` `React` `Tailwind CSS` `MySQL`
+**Highlights:**
+- 👥 Three distinct user roles: Admin, Organizer, Participant — each with tailored dashboards
+- ✅ One-click RSVP with instant email confirmation via Gmail SMTP
+- 📊 Organizer dashboard for event lifecycle management and attendee tracking
+- 🖼️ Cloudinary-powered event cover image uploads
+- 🌐 Server-side rendered Django templates styled with Tailwind CSS
 
-**✨ Key Features:**
-- Role-based access: Admin, Organizer, User
-- Secure authentication & user management
-- Full CRUD for event lifecycle management
-- RSVP system for attendee management
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naim13107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim13107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naim13107&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Applied Mathematics**  
-University of Dhaka, Dhaka, Bangladesh  
-Session: 2021-22 | Expected Graduation: 2026  
-CGPA (up to 3rd year): 3.558
+**🏛️ B.Sc. in Applied Mathematics**
+University of Dhaka, Dhaka, Bangladesh
+Session: 2021–22 &nbsp;|&nbsp; Expected Graduation: 2026 &nbsp;|&nbsp; CGPA: **3.558** *(up to 3rd year)*
 
-> Strong foundation in mathematical reasoning, algorithmic thinking, and problem solving — applied to real-world software development.
+> A strong foundation in mathematical reasoning, algorithmic thinking, and problem solving — directly applied to building real-world software systems.
 
 ---
 
 ## 🤝 Leadership & Extracurricular
 
-- **PR Executive** - Applied Mathematics Programming Society, University of Dhaka
-- **Deputy Head of Programming and Development Wing** - Dhaka University IT Society
-- **Member** - Notre Dame College Photography Club
+- 📣 **PR Executive** — Applied Mathematics Programming Society, University of Dhaka
+- 💻 **Deputy Head of Programming & Development Wing** — Dhaka University IT Society
+- 📷 **Member** — Notre Dame College Photography Club
 
 ---
 
 ## 🌐 Languages
 
-- **Bangla** - Native
-- **English** - Professional Working Proficiency
+🇧🇩 **Bangla** — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 **English** — Professional Working Proficiency
 
 ---
 
-## 📫 Let's Connect!
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naim-ul-haque/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/naim13107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://naim13107.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:naimulh644@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 📫 Let's Build Something Together!
 
-<p align="center">
-  <i>Have a project in mind? I'd love to hear from you! ✨</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-ul-haque/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naim13107.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naim13107)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimulh644@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naim13107&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<br/>
+
+*Have a project in mind? I'd love to hear from you! ✨*
+
+</div>
