@@ -68,8 +68,6 @@ I'm a passionate Full-Stack Developer with strong experience in Django, Django R
 
 ### 🩸 Bondhon - Blood Donation Platform
 
-[![Bondhon Blood Bank](https://github-readme-stats.vercel.app/api/pin/?username=naim13107&repo=bondhon-blood-bank-frontend&theme=radical)](https://github.com/naim13107/bondhon-blood-bank-frontend)
-
 **Overview:** A full-stack platform connecting blood donors with patients in critical need. Features emergency request tracking, automated donor health management, and integrated payment gateway for fundraising.
 
 **🔗 Live Link:** [https://bondhon-blood-bank.vercel.app/](https://bondhon-blood-bank.vercel.app/)  
@@ -87,8 +85,6 @@ I'm a passionate Full-Stack Developer with strong experience in Django, Django R
 
 ### 🎉 EventMaster - Event Management System
 
-[![Event Management System](https://github-readme-stats.vercel.app/api/pin/?username=naim13107&repo=EventMaster---Event-management-system&theme=radical)](https://github.com/naim13107/EventMaster---Event-management-system)
-
 **Overview:** A full-stack web application using Django (MVT architecture) with role-based access control for Admins, Organizers, and Users.
 
 **🔗 Live Link:** [https://eventmanagement-pink.vercel.app/](https://eventmanagement-pink.vercel.app/)
@@ -100,21 +96,6 @@ I'm a passionate Full-Stack Developer with strong experience in Django, Django R
 - Secure authentication & user management
 - Full CRUD for event lifecycle management
 - RSVP system for attendee management
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=naim13107&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim13107&layout=compact&theme=radical&hide_border=true" width="40%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naim13107&theme=radical&hide_border=true" width="55%" />
-</div>
 
 ---
 
