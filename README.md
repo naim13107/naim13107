@@ -129,13 +129,6 @@ Currently in my final year of **B.Sc. in Applied Mathematics** at the University
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naim13107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim13107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naim13107&theme=tokyonight&hide_border=true" />
 
 </div>
