@@ -89,10 +89,10 @@ A full-stack platform for managing blood donation requests, donor profiles, and 
 
 ## 📊 GitHub Stats
 
-![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=naim13107&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naim13107&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naim13107&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim13107&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 ---
 
 ## 🎓 Education
