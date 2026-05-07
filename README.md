@@ -73,6 +73,10 @@ I'm a passionate Full-Stack Developer with strong experience in Django, Django R
 **🔗 Live Link:** [https://bondhon-blood-bank.vercel.app/](https://bondhon-blood-bank.vercel.app/)  
 **🔗 API Server:** [https://bloodbank-teal.vercel.app/api/v1/](https://bloodbank-teal.vercel.app/api/v1/)
 
+**📂 GitHub Repositories:**
+- [Frontend Repository](https://github.com/naim13107/bondhon-blood-bank-frontend)
+- [Backend Repository](https://github.com/naim13107/Bondhon-BloodBank-Backend)
+
 **🛠️ Technologies:** `Django REST Framework` `React` `Tailwind CSS` `SSLCommerz`
 
 **✨ Key Features:**
@@ -88,6 +92,8 @@ I'm a passionate Full-Stack Developer with strong experience in Django, Django R
 **Overview:** A full-stack web application using Django (MVT architecture) with role-based access control for Admins, Organizers, and Users.
 
 **🔗 Live Link:** [https://eventmanagement-pink.vercel.app/](https://eventmanagement-pink.vercel.app/)
+
+**📂 GitHub Repository:** [https://github.com/naim13107/EventMaster---Event-management-system](https://github.com/naim13107/EventMaster---Event-management-system)
 
 **🛠️ Technologies:** `Django` `React` `Tailwind CSS` `MySQL`
 
