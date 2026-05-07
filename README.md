@@ -1,112 +1,141 @@
-# Hi there, I'm Naimul Haque 👋
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/naim13107/naim13107/main/banner.png" alt="Banner" width="100%" />
+
+# 👋 Hi, I'm Naimul Haque
 
 ### Junior Full-Stack Developer (Django + React)
 
-📍 Dhaka, Bangladesh  
-📧 naimulh644@gmail.com  
-📞 +8801581507657  
+📍 **Location:** Dhaka, Bangladesh  
+📧 **Email:** naimulh644@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/naim-ul-haque/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/naim13107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-ul-haque/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naim13107)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naim13107.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimulh644@gmail.com)
 
 ---
 
-## 🚀 About Me
+## 📖 About Me
 
-I'm a passionate **Full-Stack Developer** with strong experience in **Django**, **Django REST Framework**, and **React**. I love building scalable and secure web applications that solve real-world problems. Currently, I'm in my final year of B.Sc. in Applied Mathematics at the University of Dhaka, constantly learning and growing as a developer.
+I'm a passionate Full-Stack Developer with strong experience in **Django**, **Django REST Framework**, and **React**. I love building scalable and secure web applications that solve real-world problems. Currently, I'm in my final year of B.Sc. in Applied Mathematics at the University of Dhaka, constantly learning and growing as a developer.
 
-- 🔭 I’m currently working on full-stack web applications
-- 🌱 I’m exploring advanced backend architectures and cloud deployment
-- 👯 I’m looking to collaborate on impactful open-source projects
-- 💬 Ask me about Django, React, or REST APIs
-- ⚡ Fun fact: I'm also a photography enthusiast!
+### 🔥 Current Activities
+
+- 🔭 I'm currently working on **advanced backend architectures** and **cloud deployment**
+- 🌱 I'm exploring **Next.js** and **GraphQL**
+- 👯 I'm looking to collaborate on **impactful open-source projects**
+- 💬 Ask me about **Django**, **React**, or **REST APIs**
+- ⚡ Fun fact: I'm also a **photography enthusiast**!
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
 
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
+### Backend Development
+<img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" height="50" alt="Django REST" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=flat)
+### Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
 
 ### Core Knowledge
-- OOP (Python)
-- Data Structures & Algorithms
-- Problem Solving (CodeChef 2⭐)
+<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=python&logoColor=white" height="50" alt="OOP" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DSA-FF6C37?style=for-the-badge&logo=codeforces&logoColor=white" height="50" alt="DSA" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="50" alt="REST API" />
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=naim13107&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim13107&layout=compact&theme=radical&hide_border=true" width="40%" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naim13107&theme=radical&hide_border=true" width="55%" />
+</div>
+
+---
+
+## 📌 Pinned Projects
 
 ### 🎉 Event Management System
-A full-stack web application for managing events with role-based access and user interaction.
 
-**Key Features:**
+[![Event Management System](https://github-readme-stats.vercel.app/api/pin/?username=naim13107&repo=EventMaster---Event-management-system&theme=radical)](https://github.com/naim13107/EventMaster---Event-management-system)
+
+**Overview:** A full-stack web application for managing events with role-based access and user interaction.
+
+**🔗 Live Link:** [https://eventmanagement-pink.vercel.app/](https://eventmanagement-pink.vercel.app/)
+
+**🛠️ Technologies:** `Django` `Django REST` `React` `Tailwind CSS` `MySQL`
+
+**✨ Key Features:**
 - Role-based access control (Admin, Organizer, User)
 - Secure authentication and user management
 - Full CRUD operations for event management
 - RSVP system for users to join events
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/naim13107/EventMaster---Event-management-system)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://eventmanagement-pink.vercel.app/)
-
 ---
 
 ### 🩸 Bondhon Blood Bank System
-A full-stack platform for managing blood donation requests, donor profiles, and fundraising.
 
-**Key Features:**
+[![Bondhon Blood Bank](https://github-readme-stats.vercel.app/api/pin/?username=naim13107&repo=bondhon-blood-bank-frontend&theme=radical)](https://github.com/naim13107/bondhon-blood-bank-frontend)
+
+**Overview:** A full-stack platform for managing blood donation requests, donor profiles, and fundraising.
+
+**🔗 Live Link:** [https://bondhon-blood-bank.vercel.app/](https://bondhon-blood-bank.vercel.app/)  
+**🔗 API Server:** [https://bloodbank-teal.vercel.app/api/v1/](https://bloodbank-teal.vercel.app/api/v1/)
+
+**🛠️ Technologies:** `Django` `Django REST` `React` `Tailwind CSS` `SSLCommerz`
+
+**✨ Key Features:**
 - Authentication and role-based user system
 - Blood request and donor profile management
 - RESTful API integration using Django REST Framework
 - Payment gateway integration (SSLCommerz)
 
-**Frontend:** [![GitHub](https://img.shields.io/badge/Frontend-Repo-black)](https://github.com/naim13107/bondhon-blood-bank-frontend)
-**Backend:** [![GitHub](https://img.shields.io/badge/Backend-Repo-black)](https://github.com/naim13107/Bondhon-BloodBank-Backend)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://bondhon-blood-bank.vercel.app/)
-[![API Server](https://img.shields.io/badge/API-Server-blue)](https://bloodbank-teal.vercel.app/api/v1/)
-
 ---
 
-## 📊 GitHub Activity
+### 📊 More Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/naim13107" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/naim13107" />
-  <img alt="GitHub Contribution Graph" src="https://ghchart.rshah.org/naim13107" />
-</picture>
+Check out my other repositories on [GitHub](https://github.com/naim13107?tab=repositories)!
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Applied Mathematics**  
-University of Dhaka  
-Session: 2021-22 | Expected Graduation: 2026  
-CGPA (up to 3rd year): 3.558
+| Degree | Institution | Session | CGPA |
+|--------|-------------|---------|------|
+| **B.Sc. in Applied Mathematics** | University of Dhaka | 2021-22 (Expected 2026) | 3.558 (up to 3rd year) |
 
 ---
 
-## 🤝 Extracurricular & Leadership
+## 🤝 Leadership & Extracurricular
 
 - **PR Executive** - Applied Mathematics Programming Society, University of Dhaka
 - **Deputy Head of Programming and Development Wing** - Dhaka University IT Society
@@ -123,10 +152,19 @@ CGPA (up to 3rd year): 3.558
 
 ## 📫 Let's Connect!
 
-- 📧 Email: naimulh644@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/naim-ul-haque/](https://www.linkedin.com/in/naim-ul-haque/)
-- 🐙 GitHub: [github.com/naim13107](https://github.com/naim13107)
+<p align="center">
+  <a href="https://www.linkedin.com/in/naim-ul-haque/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/naim13107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:naimulh644@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 ---
 
-*Feel free to reach out for collaborations or just a tech chat!* 😊
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naim13107&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Feel free to reach out for collaborations or just a tech chat! 😊</i>
+</p>
