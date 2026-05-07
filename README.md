@@ -87,12 +87,14 @@ A full-stack platform for managing blood donation requests, donor profiles, and 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naim13107&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim13107&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/naim13107" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/naim13107" />
+  <img alt="GitHub Contribution Graph" src="https://ghchart.rshah.org/naim13107" />
+</picture>
+
 ---
 
 ## 🎓 Education
